@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+loan,com.digitalacademy.loan,Application,5,3,0,0,2,1,1,1,1,1
+loan,com.digitalacademy.loan.model,ResponseModel,120,33,22,0,3,10,18,5,7,5
+loan,com.digitalacademy.loan.model,StatusModel,120,15,22,0,2,6,18,3,7,3
+loan,com.digitalacademy.loan.model,LoanInfoModel,209,38,40,0,0,6,24,11,4,11
+loan,com.digitalacademy.loan.service,LoanService,0,64,0,4,0,16,0,5,0,3
+loan,com.digitalacademy.loan.constants,Response,0,48,0,0,0,8,0,3,0,3
+loan,com.digitalacademy.loan.constants,LoanError,0,45,0,0,0,9,0,4,0,4
+loan,com.digitalacademy.loan.controller,LoanController,0,81,0,0,0,22,0,3,0,3
+loan,com.digitalacademy.loan.exception,LoanException,8,18,0,0,1,6,2,3,2,3
